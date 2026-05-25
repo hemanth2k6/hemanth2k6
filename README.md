@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hemanth Kalapati
 
-## Getting Started
+Backend Engineer · Distributed Systems · Cloud
 
-First, run the development server:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalapati-hemanth)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hemanthkalapati2006@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=hemanth2k6&color=0A66C2&style=flat)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+B.Tech CSE, JNTUA College of Engineering  
+Backend engineer focused on distributed systems, high-concurrency APIs, and scalable infrastructure.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Core Stack
 
-To learn more about Next.js, take a look at the following resources:
+**Languages:** Go · Python · C++ · Java · JavaScript  
+**Databases:** Redis · PostgreSQL · MySQL · MongoDB  
+**Backend:** Node.js · Express  
+**Infrastructure:** Docker · Linux · Git
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Areas of Focus
 
-## Deploy on Vercel
+- **Distributed Rate Limiting** — Redis Lua scripts, Sliding Window, Token Bucket, `EVALSHA`
+- **System Design** — CAP theorem, consensus, horizontal sharding, caching strategies
+- **Backend Architecture** — Event-driven APIs, connection pooling, resource-efficient microservices
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Current Work
+
+Building a production-grade distributed rate limiter using Redis Sliding Window with Lua atomicity and cluster-safe hash tags. Exploring Redlock for cross-node coordination under high concurrency.
+
+---
+
+## Connect
+
+Open to collaborations on distributed systems and backend architecture problems.
