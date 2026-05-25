@@ -11,7 +11,7 @@
 
 ### Backend Engineer in the Making · Distributed Systems · AI/ML
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+the+ground+up;Redis+%7C+Lua+%7C+Distributed+Rate+Limiting;First+solve+the+problem.+Then+write+scalable+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+the+ground+up;Redis+%7C+Lua+%7C+Distributed+Systems;First+solve+the+problem.+Then+write+scalable+code.)](https://git.io/typing-svg)
 
 </div>
 
@@ -66,88 +66,6 @@ principle:  "First solve the problem. Then write scalable code."
 
 ---
 
-## `$ cat ./projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚦 Distributed Rate Limiter
-> High-performance distributed rate limiter engineered for production-scale concurrency.
-
-**Architecture highlights:**
-- Sliding Window algorithm via Redis Sorted Sets
-- Atomic execution through Lua scripting (`EVALSHA`)
-- Redis Cluster-aware with hash tag routing
-- Zero race conditions, microsecond-precision timestamps
-
-```
-Algorithm: Sliding Window Log
-Store:     Redis Sorted Sets
-Atomicity: Lua + EVALSHA
-Cluster:   Hash Tag Sharding
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Flash Sale Backend
-> Scalable backend architecture built to survive high-concurrency flash sale traffic spikes.
-
-**Architecture highlights:**
-- Queue-based request processing under load
-- Inventory protection with atomic decrement guards
-- Integrated rate limiting layer
-- Observability-first design with monitoring hooks
-
-```
-Pattern:  Queue-based Fan-out
-Safety:   Atomic Inventory Ops
-Layer:    Rate Limiting Gateway
-Ops:      Monitoring + Alerting
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Fake Media Detection
-> Deep learning pipeline for identifying AI-generated and manipulated media content.
-
-**Architecture highlights:**
-- Deep learning classification models
-- Image + video analysis pipeline
-- Feature extraction for manipulation artifacts
-- Modular detection stages
-
-```
-Models:   Deep Learning CNNs
-Input:    Image / Video Frames
-Pipeline: Staged Detection
-Output:   Confidence Scoring
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Currently Building Toward
-
-```
-▸ Advanced DSA Patterns
-▸ System Design Fundamentals
-▸ Distributed Systems Internals
-▸ Cloud & DevOps (AWS / Docker)
-▸ AI Engineering & RAG Systems
-▸ Production-grade Backend APIs
-```
-
-</td>
-</tr>
-</table>
-
----
-
 ## `$ git log --stats`
 
 <div align="center">
@@ -159,6 +77,19 @@ Output:   Confidence Scoring
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2k6&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9)
 
 </div>
+
+---
+
+## `$ cat ./currently-learning`
+
+```
+▸ Advanced DSA Patterns
+▸ System Design Fundamentals
+▸ Distributed Systems Internals
+▸ Cloud & DevOps (AWS / Docker)
+▸ AI Engineering & RAG Systems
+▸ Production-grade Backend APIs
+```
 
 ---
 
