@@ -97,9 +97,9 @@ principle:  "First solve the problem. Then write scalable code."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/hemanth2k6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kalapati-hemanth)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/hemanth2k6)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hemanthkalapati2006@gmail.com)
 
 <br/>
 
