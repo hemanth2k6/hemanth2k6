@@ -80,6 +80,15 @@ principle:  "First solve the problem. Then write scalable code."
 
 ---
 
+<!-- Add this under your stats section -->
+### $ git achievements
+
+<div align="center">
+
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=hemanth2k6&theme=github_dark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ## `$ cat ./currently-learning`
 
 ```
