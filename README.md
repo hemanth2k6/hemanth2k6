@@ -9,9 +9,14 @@
 ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-### Backend Engineer → Scalable AI/ML Systems · Distributed Systems
+### Scalable AI/ML Systems · Distributed Systems · Backend Engineering
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+scalable+AI%2FML+systems;RAG+%7C+LLM+Serving+%7C+Recommendation+Systems;First+solve+the+problem.+Then+write+scalable+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Designing+systems+that+scale;RAG+%7C+LLM+Serving+%7C+Recommendation+Engines;First+solve+the+problem.+Then+write+scalable+code.)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hemanth2k6&style=flat-square&color=00D9FF&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/hemanth2k6?style=flat-square&color=00D9FF&labelColor=0d1117)
 
 </div>
 
@@ -23,41 +28,35 @@
 name:       Hemanth
 handle:     hemanth2k6
 location:   JNTUA College of Engineering, Pulivendula
-focus:      Scalable AI/ML Systems · Distributed Systems · Backend Engineering
-currently:  Building an Agentic RAG system
+focus:      Scalable AI/ML Systems · Distributed Systems
 principle:  "First solve the problem. Then write scalable code."
 ```
 
 ---
 
-## `$ cat ./ai-ml-roadmap`
+## `$ cat ./interests.md`
 
 ```
-[in progress] Agentic RAG System
-              → retrieval-augmented generation with agent-based
-                orchestration, tool use, and multi-step reasoning
-
-[  planned  ] Fine-Tuning + Quantization → High-Throughput Serving Engine
-              → efficient LLM fine-tuning, post-training quantization,
-                and a low-latency, high-throughput inference/serving layer
-
-[  planned  ] Real-Time Two-Tower Neural Recommendation System
-              → embedding-based candidate retrieval with a two-tower
-                architecture, served in real time
+▸ Retrieval-Augmented Generation & agentic, tool-using LLM systems
+▸ Efficient model adaptation — fine-tuning & post-training quantization
+▸ High-throughput, low-latency model serving & inference optimization
+▸ Embedding-based retrieval & two-tower recommendation architectures
+▸ Distributed systems — consistency, caching, and scalable architecture
+▸ System design for high-scale backend infrastructure
 ```
 
 ---
 
-## `$ ls ./tech-stack`
+## `$ ls ./skills`
 
 <div align="center">
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
 **AI / ML**
 
@@ -67,7 +66,7 @@ principle:  "First solve the problem. Then write scalable code."
 ![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=0668E1)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
-**Backend & Databases**
+**Backend & Data**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
@@ -75,12 +74,12 @@ principle:  "First solve the problem. Then write scalable code."
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-**Tools & Platforms**
+**Infra & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
@@ -94,32 +93,7 @@ principle:  "First solve the problem. Then write scalable code."
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hemanth2k6&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth2k6&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9)
-
 </div>
-
----
-
-### `$ git achievements`
-
-<div align="center">
-
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=hemanth2k6&theme=github_dark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## `$ cat ./currently-learning`
-
-```
-▸ Agentic RAG architectures & tool-using LLMs
-▸ LLM fine-tuning & post-training quantization
-▸ High-throughput model serving & inference optimization
-▸ Two-tower architectures for real-time recommendation
-▸ Distributed Systems Internals
-▸ System Design Fundamentals
-```
 
 ---
 
@@ -130,10 +104,6 @@ principle:  "First solve the problem. Then write scalable code."
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kalapati-hemanth)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/hemanth2k6)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hemanthkalapati2006@gmail.com)
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=hemanth2k6&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
 
 </div>
 
