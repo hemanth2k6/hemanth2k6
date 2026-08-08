@@ -1,36 +1,38 @@
 <div align="center">
 
-```
-██╗  ██╗███████╗███╗   ███╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
-██║  ██║██╔════╝████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
-███████║█████╗  ██╔████╔██║███████║██╔██╗ ██║   ██║   ███████║
-██╔══██║██╔══╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   ██╔══██║
-██║  ██║███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   ██║  ██║
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
-```
+# Hemanth
 
-### Backend Engineer in the Making · Distributed Systems · AI/ML
+### Backend Engineer → Scalable AI/ML Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+systems+from+the+ground+up;Redis+%7C+Lua+%7C+Distributed+Systems;First+solve+the+problem.+Then+write+scalable+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+AI%2FML+systems;Agentic+RAG+%7C+Fine-tuning+%7C+Recommendation+Systems;First+solve+the+problem.+Then+write+scalable+code.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `$ whoami`
+## About
+
+I'm a backend-focused engineer moving deeper into scalable AI/ML infrastructure — the systems that make models actually usable in production, not just in notebooks. My interest is in the layer between research and real-world serving: retrieval pipelines, efficient inference, and recommendation systems that run at scale.
 
 ```yaml
 name:       Hemanth
 handle:     hemanth2k6
 location:   JNTUA College of Engineering, Pulivendula
-focus:      Backend · Distributed Systems · AI/ML
-currently:  DSA · System Design · Cloud · Scalable Architectures
+focus:      Scalable AI/ML Systems · Backend · Distributed Systems
 principle:  "First solve the problem. Then write scalable code."
 ```
 
 ---
 
-## `$ ls ./tech-stack`
+## Currently Building
+
+- 🔨 **Agentic RAG System** — retrieval-augmented generation with agentic orchestration, built for production use, not just a demo
+- 🔜 **Fine-tuning & Quantization Pipeline** — a high-throughput model serving engine, optimizing inference cost and latency at scale
+- 🔜 **Real-Time Two-Tower Recommendation System** — neural recommendation architecture designed for low-latency, real-time inference
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -41,10 +43,17 @@ principle:  "First solve the problem. Then write scalable code."
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599C)
 
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=0668E1)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
+
 **Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
@@ -56,17 +65,11 @@ principle:  "First solve the problem. Then write scalable code."
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-
 </div>
 
 ---
 
-## `$ git log --stats`
+## GitHub Stats
 
 <div align="center">
 
@@ -80,29 +83,7 @@ principle:  "First solve the problem. Then write scalable code."
 
 ---
 
-<!-- Add this under your stats section -->
-### $ git achievements
-
-<div align="center">
-
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=hemanth2k6&theme=github_dark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## `$ cat ./currently-learning`
-
-```
-▸ Advanced DSA Patterns
-▸ System Design Fundamentals
-▸ Distributed Systems Internals
-▸ Cloud & DevOps (AWS / Docker)
-▸ AI Engineering & RAG Systems
-▸ Production-grade Backend APIs
-```
-
----
-
-## `$ ./connect.sh`
+## Connect
 
 <div align="center">
 
@@ -120,13 +101,6 @@ principle:  "First solve the problem. Then write scalable code."
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║  "First solve the problem. Then write            ║
-║   scalable code."                                ║
-╚══════════════════════════════════════════════════╝
-```
-
-*If you find something useful here, a ⭐ goes a long way.*
+*"First solve the problem. Then write scalable code."*
 
 </div>
