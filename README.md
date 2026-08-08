@@ -1,38 +1,54 @@
 <div align="center">
 
-# Hemanth
+```
+██╗  ██╗███████╗███╗   ███╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
+██║  ██║██╔════╝████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
+███████║█████╗  ██╔████╔██║███████║██╔██╗ ██║   ██║   ███████║
+██╔══██║██╔══╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   ██╔══██║
+██║  ██║███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   ██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-### Backend Engineer → Scalable AI/ML Systems
+### Backend Engineer → Scalable AI/ML Systems · Distributed Systems
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+AI%2FML+systems;Agentic+RAG+%7C+Fine-tuning+%7C+Recommendation+Systems;First+solve+the+problem.+Then+write+scalable+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+scalable+AI%2FML+systems;RAG+%7C+LLM+Serving+%7C+Recommendation+Systems;First+solve+the+problem.+Then+write+scalable+code.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About
-
-I'm a backend-focused engineer moving deeper into scalable AI/ML infrastructure — the systems that make models actually usable in production, not just in notebooks. My interest is in the layer between research and real-world serving: retrieval pipelines, efficient inference, and recommendation systems that run at scale.
+## `$ whoami`
 
 ```yaml
 name:       Hemanth
 handle:     hemanth2k6
 location:   JNTUA College of Engineering, Pulivendula
-focus:      Scalable AI/ML Systems · Backend · Distributed Systems
+focus:      Scalable AI/ML Systems · Distributed Systems · Backend Engineering
+currently:  Building an Agentic RAG system
 principle:  "First solve the problem. Then write scalable code."
 ```
 
 ---
 
-## Currently Building
+## `$ cat ./ai-ml-roadmap`
 
-- 🔨 **Agentic RAG System** — retrieval-augmented generation with agentic orchestration, built for production use, not just a demo
-- 🔜 **Fine-tuning & Quantization Pipeline** — a high-throughput model serving engine, optimizing inference cost and latency at scale
-- 🔜 **Real-Time Two-Tower Recommendation System** — neural recommendation architecture designed for low-latency, real-time inference
+```
+[in progress] Agentic RAG System
+              → retrieval-augmented generation with agent-based
+                orchestration, tool use, and multi-step reasoning
+
+[  planned  ] Fine-Tuning + Quantization → High-Throughput Serving Engine
+              → efficient LLM fine-tuning, post-training quantization,
+                and a low-latency, high-throughput inference/serving layer
+
+[  planned  ] Real-Time Two-Tower Neural Recommendation System
+              → embedding-based candidate retrieval with a two-tower
+                architecture, served in real time
+```
 
 ---
 
-## Tech Stack
+## `$ ls ./tech-stack`
 
 <div align="center">
 
@@ -41,14 +57,15 @@ principle:  "First solve the problem. Then write scalable code."
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00599C)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
 ![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=0668E1)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0d1117?style=for-the-badge&logo=openai&logoColor=ffffff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
 **Backend & Databases**
 
@@ -69,7 +86,7 @@ principle:  "First solve the problem. Then write scalable code."
 
 ---
 
-## GitHub Stats
+## `$ git log --stats`
 
 <div align="center">
 
@@ -83,7 +100,30 @@ principle:  "First solve the problem. Then write scalable code."
 
 ---
 
-## Connect
+### `$ git achievements`
+
+<div align="center">
+
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=hemanth2k6&theme=github_dark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## `$ cat ./currently-learning`
+
+```
+▸ Agentic RAG architectures & tool-using LLMs
+▸ LLM fine-tuning & post-training quantization
+▸ High-throughput model serving & inference optimization
+▸ Two-tower architectures for real-time recommendation
+▸ Distributed Systems Internals
+▸ System Design Fundamentals
+```
+
+---
+
+## `$ ./connect.sh`
 
 <div align="center">
 
@@ -101,6 +141,13 @@ principle:  "First solve the problem. Then write scalable code."
 
 <div align="center">
 
-*"First solve the problem. Then write scalable code."*
+```
+╔══════════════════════════════════════════════════╗
+║  "First solve the problem. Then write            ║
+║   scalable code."                                ║
+╚══════════════════════════════════════════════════╝
+```
+
+*If you find something useful here, a ⭐ goes a long way.*
 
 </div>
